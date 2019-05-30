@@ -5,7 +5,7 @@ i = 0
     i = i + 1
     yield(array[i])
   end
-
+  array
 end
 
 # call your method here!
